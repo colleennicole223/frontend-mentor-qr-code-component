@@ -9,7 +9,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
   - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
-  - [What I learned](#what-i-learned)
+  - [Overview](#what-i-learned)
 - [Author](#author)
 
 ## Overview
@@ -20,25 +20,25 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://github.com/colleennicole223/frontend-mentor-qr-code-component](https://github.com/colleennicole223/frontend-mentor-qr-code-component)
+- Live Site URL: [https://colleennicole223.github.io/frontend-mentor-qr-code-component/](https://colleennicole223.github.io/frontend-mentor-qr-code-component/)
 
 ## My process
 
 ### Built with
 
-- HTML & CSS custom properties
+- HTML
+- CSS custom properties
 - Flexbox
 
-### What I learned
+### Overview
 
-I focused on responsive design by using 'flex' properties, allowing the component to react to different screen sizes. 
+Focused on responsive design by using 'flex' properties - allowing the component to react to different screen sizes. 
 
-The only thing I had to look up for this project was how to control the box shadow effects - which [MDN Web Docs](https://developer.mozilla.org/en-US/docs/Web/CSS/box-shadow) was a helpful resource. 
+Only had to look up how to control the box shadow effects - which [MDN Web Docs](https://developer.mozilla.org/en-US/docs/Web/CSS/box-shadow) was a helpful resource. 
 
 ## Author
 
 - Website - [Colleen](https://www.colleennicole.com)
 - Frontend Mentor - [@colleennicole223](https://www.frontendmentor.io/profile/colleennicole223)
 
-**Note: Delete this note and add/remove/edit lines above based on what links you'd like to share.**
