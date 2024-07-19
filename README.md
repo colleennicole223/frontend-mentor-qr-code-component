@@ -9,7 +9,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
   - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
-  - [Overview](#what-i-learned)
+  - [Overview](#overview)
+  - [What I Learned](#what-i-learned)
 - [Author](#author)
 
 ## Overview
@@ -35,7 +36,12 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 Focused on responsive design by using 'flex' properties - allowing the component to react to different screen sizes. 
 
-Only had to look up how to control the box shadow effects - which [MDN Web Docs](https://developer.mozilla.org/en-US/docs/Web/CSS/box-shadow) was a helpful resource. 
+### What I Learned
+
+- Had to look up how to control the box shadow effects - which [MDN Web Docs](https://developer.mozilla.org/en-US/docs/Web/CSS/box-shadow) was a helpful resource. 
+- Images must have alternate text for screen readers
+- Document should have one main landmark - easier to navigate to primary content
+- Page should contain a level-one heading for screen readers 
 
 ## Author
 
